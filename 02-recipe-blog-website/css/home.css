@@ -244,6 +244,7 @@ footer {
 
     .container {
         width: 133.1%;
+        margin: 1rem;
     }
     
     .container .columns {
@@ -259,7 +260,7 @@ footer {
     }
 
     .container .columns .col-1 .row-2 .image .img img {
-        width: 100%;
+        width: 98%;
         height: 20rem;
         object-fit: cover;
     }
